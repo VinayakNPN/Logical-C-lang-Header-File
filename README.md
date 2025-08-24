@@ -1,7 +1,6 @@
 # 🚀 Vincen.h - Mathematical Functions and Logics Library
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com)
 
 > 🎯 **A comprehensive C header library providing essential mathematical and computational functions for number theory, digit manipulation, and sequence generation.**
