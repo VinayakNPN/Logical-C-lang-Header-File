@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="Header-video.gif">
-  </a>
+  <img src="image.png" alt="Header Image" width="600"/>
 </p>
 
 
