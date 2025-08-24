@@ -56,7 +56,7 @@
 
 1. **Download the header file**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/VinayakNPN/Logical-C-lang-Header-File.git
    cd vincen-library
    ```
 
@@ -345,7 +345,7 @@ of this software and associated documentation files...
 
 **Vinayak Chouhan**
 
-- 📧 Email: your.email@example.com
+- 📧 Email: vinayakchouhanonwork@gmail.com
 - 🐙 GitHub: [@VinayakNPN](https://github.com/VinayakNPN)
 - 💼 LinkedIn: [Vinayak-Chouhan](https://linkedin.com/in/vinayak-chouhan)
 
