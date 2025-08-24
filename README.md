@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Header Image" width="600"/>
+  <img src=".gitignore\image.png" alt="Header Image" width="600"/>
 </p>
 
 
