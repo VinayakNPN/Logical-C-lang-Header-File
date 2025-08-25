@@ -10,7 +10,7 @@ void main() {
 
     printf("%d\n",ArmStrong(153));
 
-    printf("%d\n",Palindrome(1231));
+    printf("%d\n",Palindrome(01210));
 
     PrintFibonacci(7);
 
